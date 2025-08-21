@@ -14,7 +14,7 @@ Sempre estou trabalhando em projetos pessoais para aprender na prática e melhor
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- Linguagens: `C`, `C#`, `JavaScript`
+- Linguagens: `C`, `C#`, `JavaScript`,`SQL`, `Python` 
 - Web: `HTML`, `CSS`, `React`
 - Versionamento: `Git`, `GitHub`
 - Ferramentas: `VS Code`, `Figma`

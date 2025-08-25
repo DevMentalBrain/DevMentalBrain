@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Cauã Mendes
+# 👋 Sou Cauã Mendes
 
 🎓 Estudante de Ciência da Computação | 💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia e inovação
 
@@ -6,7 +6,7 @@
 
 ## 💡 Sobre mim
 
-Sou um estudante de Ciência da Computação com grande interesse em áreas como **desenvolvimento de software**, **APIs**, **banco de dados** e **arquitetura de sistemas**. Atualmente, estou buscando minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos técnicos.
+Estudante de Ciência da Computação com grande interesse em áreas como **desenvolvimento de software**, **APIs**, **banco de dados** e **arquitetura de sistemas**. Atualmente, estou buscando minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos técnicos.
 
 Sempre estou trabalhando em projetos pessoais para aprender na prática e melhorar minhas habilidades com tecnologias modernas.
 

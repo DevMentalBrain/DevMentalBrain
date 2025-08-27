@@ -1,4 +1,4 @@
-# 👋 Sou Cauã Mendes
+# 👨‍💻 Cauã Mendes
 
 🎓 Estudante de Ciência da Computação | 💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia e inovação
 
@@ -33,6 +33,7 @@ Objetivo: Desenvolvemos um sistema completamente autônomo que simula um jogo de
 ## 📚 Certificações e Cursos
 
 - ✅ Técnico em Informática - Instituto Nossa Senhora de Fátima - Concluído 2022
+- 🔄 Excel (Básico ao Avançado) - Udemy - Cursando
 
 ---
 
